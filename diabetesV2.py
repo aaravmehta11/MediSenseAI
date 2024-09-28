@@ -6,27 +6,27 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
 import streamlit as st
 
-bp = 0
-cholestrol = 0
-cholestrolCheck = 0
-physical = 0
-smoke = 0
-stroke = 0
-heartDisease = 0
-exercise = 0
-fruit = 0
-vegetables = 0
-alc = 0
-coverage = 0
-noDoc = 0
-genHealth = 0
-mental = 0
-physical = 0
-walking = 0
-gender = 0
-age = 0
-edu = 0
-income = 0
+bp = 0.0
+cholestrol = 0.0
+cholestrolCheck = 0.0
+physical = 0.0
+smoke = 0.0
+stroke = 0.0
+heartDisease = 0.0
+exercise = 0.0
+fruit = 0.0
+vegetables = 0.0
+alc = 0.0
+coverage = 0.0
+noDoc = 0.0
+genHealth = 0.0
+mental = 0.0
+physical = 0.0
+walking = 0.0
+gender = 0.0
+age = 0.0
+edu = 0.0
+income = 0.0
 
 
 st.header("Diabetes Risk Calculator")
@@ -234,5 +234,8 @@ predicted_probabilities = model.predict_proba(new_person_scaled)
 diabetes_probability = predicted_probabilities[0][1]  # Probability of class 1 (diabetes)
 percentage_chance = diabetes_probability * 100
 
+
+st.write(bp, cholestrol, cholestrolCheck, physical, smoke, stroke, heartDisease, exercise, fruit, vegetables, alc, coverage,
+               noDoc, genHealth, mental, physical, walking, gender, age, edu, income)
 st.subheader('Prediction Probability in % :')
 st.write(f'Predicted risk of diabetes: {percentage_chance:.2f}%')

@@ -5,4 +5,7 @@ Our app is designed to address the critical issues of misdiagnosis and inadequat
 Try out our app here!
 
 Authors:
-@SohamGunturu7
+  - Soham Gunturu
+  - Keshav Chinnakotla
+  - Aarav Mehta
+  - Ayan Goel

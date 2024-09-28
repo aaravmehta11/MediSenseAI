@@ -1,0 +1,994 @@
+text,label
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has constipation, pain during bowel movements, bloody stool, irritation in anus.",12
+"The patient has stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has vomiting, fatigue, anxiety, sweating, headache, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has skin rash, blister, red sore around nose, yellow crust ooze.",27
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool.",12
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has joint pain, neck pain, knee pain, hip joint pain, painful walking.",31
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has itching, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has itching, skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, visual disturbances.",30
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has vomiting, dehydration, diarrhoea.",16
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has continuous sneezing, chills, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain.",10
+"The patient has muscle wasting, patches in throat, extra marital contacts.",0
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, chest pain.",15
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has skin rash, joint pain, skin peeling, small dents in nails, inflammatory nails.",35
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has joint pain, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has vomiting, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has fatigue, mood swings, weight loss, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has itching, stomach pain, burning micturition, spotting  urination.",13
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has continuous sneezing, shivering, chills.",3
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has burning micturition, bladder discomfort, foul smell of urine.",38
+"The patient has muscle wasting, patches in throat, high fever.",0
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has itching, skin rash, stomach pain, burning micturition.",13
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, increased appetite, polyuria.",11
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has chills, vomiting, fatigue, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has itching, skin rash, stomach pain, spotting  urination.",13
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has muscle wasting, patches in throat, extra marital contacts.",0
+"The patient has patches in throat, high fever, extra marital contacts.",0
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has skin rash, pus filled pimples, scurring.",1
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, red spots over body.",10
+"The patient has sunken eyes, dehydration, diarrhoea.",16
+"The patient has vomiting, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, increased appetite, polyuria.",11
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails.",35
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has itching, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has itching, skin rash, stomach pain, burning micturition.",13
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has joint pain, vomiting, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has fatigue, weight gain, cold hands and feets, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has itching, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has fatigue, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has continuous sneezing, chills, watering from eyes.",3
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has fatigue, mood swings, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has skin rash, joint pain, skin peeling, small dents in nails, inflammatory nails.",35
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has fatigue, weight loss, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption.",2
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, history of alcohol consumption, fluid overload.1.",2
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has joint pain, vomiting, yellowish skin, dark urine, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough.",15
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has vomiting, yellowish skin, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has vomiting, sunken eyes, dehydration.",16
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has vomiting, headache, altered sensorium.",32
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has continuous sneezing, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has fatigue, cough, high fever, breathlessness, family history.",5
+"The patient has itching, skin rash, nodal skin eruptions.",14
+"The patient has itching, skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases.",33
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has itching, skin rash, dischromic  patches.",14
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has fatigue, mood swings, weight loss, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has joint pain, vomiting, fatigue, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has itching, skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has itching, vomiting, fatigue, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has vomiting, indigestion, abdominal pain, passage of gases, internal itching.",33
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has stomach pain, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has vomiting, headache, spinning movements, loss of balance, unsteadiness.",40
+"The patient has joint pain, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, toxic look (typhos), belly pain.",37
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has fatigue, weight loss, restlessness, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, prominent veins on calf.",39
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has fatigue, cough, high fever, family history, mucoid sputum.",5
+"The patient has chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has joint pain, vomiting, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has muscle weakness, swelling joints, movement stiffness, painful walking.",4
+"The patient has muscle wasting, high fever, extra marital contacts.",0
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, abdominal pain.",28
+"The patient has joint pain, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has itching, skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has acidity, indigestion, headache, blurred and distorted vision, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, weight loss, restlessness, lethargy, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has joint pain, vomiting, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, slurred speech, irritability, palpitations.",25
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has itching, fatigue, lethargy, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has back pain, neck pain, dizziness, loss of balance.",6
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has itching, vomiting, yellowish skin, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has joint pain, neck pain, knee pain, hip joint pain, painful walking.",31
+"The patient has stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has skin rash, pus filled pimples, blackheads.",1
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption.",2
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has itching, stomach pain, burning micturition, spotting  urination.",13
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has fatigue, mood swings, weight loss, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has vomiting, headache, nausea, spinning movements, unsteadiness.",40
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has back pain, weakness in limbs, neck pain, dizziness.",6
+"The patient has fatigue, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, chest pain.",15
+"The patient has skin rash, pus filled pimples, scurring.",1
+"The patient has skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has itching, skin rash, fatigue, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has chills, fatigue, cough, high fever, breathlessness, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has itching, fatigue, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, family history.",20
+"The patient has chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has vomiting, breathlessness, chest pain.",17
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, indigestion, abdominal pain, passage of gases, internal itching.",33
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has skin rash, pus filled pimples, scurring.",1
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has itching, nodal skin eruptions, dischromic  patches.",14
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has vomiting, weakness of one body side, altered sensorium.",32
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has vomiting, indigestion, abdominal pain, passage of gases, internal itching.",33
+"The patient has fatigue, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, cramps, bruising, obesity, swollen blood vessels, prominent veins on calf.",39
+"The patient has itching, skin rash, burning micturition, spotting  urination.",13
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has headache, chest pain, loss of balance, lack of concentration.",23
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has itching, skin rash, fatigue, lethargy, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, depression, irritability, visual disturbances.",30
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has joint pain, vomiting, fatigue, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has burning micturition, bladder discomfort, continuous feel of urine.",38
+"The patient has itching, stomach pain, burning micturition, spotting  urination.",13
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, visual disturbances.",30
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has skin rash, high fever, blister, red sore around nose.",27
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has skin rash, joint pain, skin peeling, small dents in nails, inflammatory nails.",35
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has continuous sneezing, chills, fatigue, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has joint pain, vomiting, fatigue, high fever, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has constipation, pain during bowel movements, bloody stool, irritation in anus.",12
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has stomach pain, acidity, vomiting, cough, chest pain.",15
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has chills, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has continuous sneezing, shivering, watering from eyes.",3
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has sunken eyes, dehydration, diarrhoea.",16
+"The patient has patches in throat, high fever, extra marital contacts.",0
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, increased appetite, polyuria.",11
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has vomiting, sunken eyes, dehydration.",16
+"The patient has muscle weakness, stiff neck, swelling joints, painful walking.",4
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has headache, chest pain, loss of balance, lack of concentration.",23
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has acidity, indigestion, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has fatigue, cough, high fever, family history, mucoid sputum.",5
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has skin rash, high fever, blister, red sore around nose.",27
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has chills, vomiting, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, malaise, red spots over body.",7
+"The patient has acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has vomiting, yellowish skin, abdominal pain, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain.",21
+"The patient has chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has breathlessness, sweating, chest pain.",17
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has fatigue, weight loss, restlessness, lethargy, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has headache, weakness of one body side, altered sensorium.",32
+"The patient has fatigue, yellowish skin, loss of appetite, yellowing of eyes, family history.",20
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has continuous sneezing, shivering, watering from eyes.",3
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has chills, vomiting, fatigue, high fever, headache, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has joint pain, vomiting, yellowish skin, dark urine, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has muscle weakness, stiff neck, movement stiffness, painful walking.",4
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has vomiting, sweating, chest pain.",17
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has burning micturition, foul smell of urine, continuous feel of urine.",38
+"The patient has fatigue, cough, high fever, family history, mucoid sputum.",5
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain.",8
+"The patient has fatigue, mood swings, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has continuous sneezing, shivering, chills.",3
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has chills, vomiting, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain.",10
+"The patient has continuous sneezing, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has continuous sneezing, chills, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has skin rash, high fever, blister, yellow crust ooze.",27
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability.",30
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, abdominal pain, yellowing of eyes.",21
+"The patient has muscle wasting, high fever, extra marital contacts.",0
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has continuous sneezing, chills, watering from eyes.",3
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has muscle weakness, stiff neck, swelling joints, painful walking.",4
+"The patient has headache, weakness of one body side, altered sensorium.",32
+"The patient has itching, skin rash, burning micturition, spotting  urination.",13
+"The patient has fatigue, weight loss, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has vomiting, yellowish skin, abdominal pain, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has burning micturition, bladder discomfort, continuous feel of urine.",38
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, family history.",20
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, muscle pain.",29
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, yellowing of eyes.",21
+"The patient has vomiting, headache, spinning movements, loss of balance, unsteadiness.",40
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has itching, skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine.",28
+"The patient has fatigue, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has fatigue, weight loss, restlessness, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has patches in throat, high fever, extra marital contacts.",0
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has skin rash, blister, red sore around nose, yellow crust ooze.",27
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has muscle weakness, stiff neck, swelling joints, painful walking.",4
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, visual disturbances.",30
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has chills, fatigue, cough, high fever, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has joint pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has chills, vomiting, high fever, sweating, nausea, diarrhoea, muscle pain.",29
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has fatigue, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has headache, chest pain, dizziness, loss of balance.",23
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has skin rash, chills, joint pain, vomiting, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has chills, vomiting, fatigue, high fever, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has joint pain, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has chills, fatigue, cough, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has itching, skin rash, nodal skin eruptions.",14
+"The patient has sunken eyes, dehydration, diarrhoea.",16
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has chills, vomiting, high fever, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels.",39
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has skin rash, chills, joint pain, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has vomiting, weakness of one body side, altered sensorium.",32
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has chills, vomiting, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has skin rash, high fever, blister, yellow crust ooze.",27
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints.",31
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, slurred speech, irritability, palpitations.",25
+"The patient has fatigue, cough, high fever, breathlessness, mucoid sputum.",5
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has vomiting, breathlessness, sweating.",17
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has chills, vomiting, fatigue, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has chills, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has headache, chest pain, dizziness, lack of concentration.",23
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, chest pain.",15
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has skin rash, pus filled pimples, blackheads.",1
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has chills, vomiting, high fever, sweating, headache, diarrhoea, muscle pain.",29
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has continuous sneezing, shivering, watering from eyes.",3
+"The patient has vomiting, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has pus filled pimples, blackheads, scurring.",1
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has vomiting, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, chest pain, fast heart rate, rusty sputum.",34
+"The patient has skin rash, chills, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, coma, stomach bleeding.",22
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has stomach pain, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has itching, skin rash, dischromic  patches.",14
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has itching, vomiting, fatigue, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool.",12
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has itching, nodal skin eruptions, dischromic  patches.",14
+"The patient has skin rash, chills, joint pain, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has itching, skin rash, stomach pain, burning micturition.",13
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has chills, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has vomiting, yellowish skin, abdominal pain, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has vomiting, indigestion, abdominal pain, passage of gases, internal itching.",33
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool.",12
+"The patient has joint pain, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has vomiting, breathlessness, chest pain.",17
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has continuous sneezing, chills, fatigue, cough, high fever, headache, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has fatigue, weight loss, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain.",21
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine.",28
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has skin rash, pus filled pimples, blackheads.",1
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has joint pain, vomiting, fatigue, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has vomiting, headache, altered sensorium.",32
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has itching, skin rash, nodal skin eruptions, dischromic  patches.",14
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has vomiting, weakness of one body side, altered sensorium.",32
+"The patient has vomiting, breathlessness, chest pain.",17
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes.",20
+"The patient has vomiting, headache, nausea, loss of balance, unsteadiness.",40
+"The patient has fatigue, weight gain, cold hands and feets, mood swings, lethargy, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough.",15
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has vomiting, indigestion, abdominal pain, passage of gases, internal itching.",33
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, abdominal pain, yellowing of eyes.",21
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has continuous sneezing, shivering, chills.",3
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has skin rash, pus filled pimples, blackheads.",1
+"The patient has vomiting, fatigue, anxiety, sweating, headache, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has stomach pain, acidity, ulcers on tongue, cough, chest pain.",15
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has chills, fatigue, cough, high fever, headache, swelled lymph nodes, malaise, phlegm, throat irritation, redness of eyes, sinus pressure, runny nose, congestion, chest pain, loss of smell, muscle pain.",9
+"The patient has vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has itching, skin rash, nodal skin eruptions.",14
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has fatigue, mood swings, weight loss, restlessness, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has vomiting, indigestion, abdominal pain, passage of gases, internal itching.",33
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has muscle wasting, high fever, extra marital contacts.",0
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has vomiting, sunken eyes, dehydration, diarrhoea.",16
+"The patient has joint pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases.",33
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has fatigue, weight loss, restlessness, lethargy, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, muscle pain, red spots over body.",10
+"The patient has headache, chest pain, dizziness, lack of concentration.",23
+"The patient has patches in throat, high fever, extra marital contacts.",0
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has skin rash, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has itching, skin rash, stomach pain, burning micturition, spotting  urination.",13
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, increased appetite, polyuria.",11
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has headache, weakness of one body side, altered sensorium.",32
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has continuous sneezing, shivering, chills.",3
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has acidity, indigestion, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has chills, vomiting, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has itching, skin rash, burning micturition, spotting  urination.",13
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has itching, skin rash, nodal skin eruptions.",14
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, internal itching.",33
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels, prominent veins on calf.",39
+"The patient has vomiting, headache, weakness of one body side, altered sensorium.",32
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum.",36
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has vomiting, breathlessness, sweating, chest pain.",17
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has skin rash, pus filled pimples, blackheads.",1
+"The patient has burning micturition, bladder discomfort, foul smell of urine.",38
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has itching, vomiting, fatigue, weight loss, yellowish skin, dark urine, abdominal pain.",28
+"The patient has stomach pain, acidity, ulcers on tongue, vomiting, cough, chest pain.",15
+"The patient has headache, dizziness, loss of balance, lack of concentration.",23
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has skin rash, pus filled pimples, blackheads, scurring.",1
+"The patient has back pain, neck pain, dizziness, loss of balance.",6
+"The patient has weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has itching, skin rash, burning micturition, spotting  urination.",13
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels.",39
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has fatigue, weight gain, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has muscle wasting, patches in throat, high fever, extra marital contacts.",0
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has muscle weakness, stiff neck, swelling joints, movement stiffness, painful walking.",4
+"The patient has skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails.",35
+"The patient has patches in throat, high fever, extra marital contacts.",0
+"The patient has continuous sneezing, chills, watering from eyes.",3
+"The patient has chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum.",34
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has vomiting, fatigue, anxiety, sweating, headache, nausea, blurred and distorted vision, excessive hunger, drying and tingling lips, slurred speech, irritability, palpitations.",25
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, history of alcohol consumption, fluid overload.1.",2
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, loss of appetite, abdominal pain, yellowing of eyes, acute liver failure, coma, stomach bleeding.",22
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, distention of abdomen, history of alcohol consumption, fluid overload.1.",2
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has fatigue, cough, high fever, breathlessness, family history.",5
+"The patient has fatigue, cramps, bruising, obesity, swollen legs, swollen blood vessels.",39
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has continuous sneezing, chills, watering from eyes.",3
+"The patient has bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has fatigue, weight loss, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has acidity, indigestion, headache, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has vomiting, yellowish skin, abdominal pain, swelling of stomach, history of alcohol consumption, fluid overload.1.",2
+"The patient has skin rash, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body.",10
+"The patient has headache, chest pain, dizziness, loss of balance, lack of concentration.",23
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has skin rash, chills, joint pain, vomiting, fatigue, high fever, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain.",10
+"The patient has itching, vomiting, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has itching, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",8
+"The patient has joint pain, vomiting, fatigue, yellowish skin, nausea, loss of appetite, abdominal pain, yellowing of eyes.",21
+"The patient has fatigue, cough, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain.",28
+"The patient has joint pain, vomiting, fatigue, yellowish skin, dark urine, nausea, abdominal pain, yellowing of eyes.",21
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has fatigue, restlessness, lethargy, irregular sugar level, blurred and distorted vision, obesity, excessive hunger, increased appetite, polyuria.",11
+"The patient has chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain.",29
+"The patient has fatigue, yellowish skin, nausea, loss of appetite, yellowing of eyes, family history.",20
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has joint pain, vomiting, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, diarrhoea, mild fever, yellowing of eyes, muscle pain.",18
+"The patient has headache, weakness of one body side, altered sensorium.",32
+"The patient has back pain, weakness in limbs, neck pain, dizziness, loss of balance.",6
+"The patient has fatigue, high fever, breathlessness, family history, mucoid sputum.",5
+"The patient has constipation, pain during bowel movements, pain in anal region, bloody stool, irritation in anus.",12
+"The patient has vomiting, headache, altered sensorium.",32
+"The patient has muscle wasting, patches in throat, high fever.",0
+"The patient has acidity, indigestion, headache, blurred and distorted vision, excessive hunger, stiff neck, depression, irritability, visual disturbances.",30
+"The patient has vomiting, headache, nausea, spinning movements, loss of balance, unsteadiness.",40
+"The patient has fatigue, mood swings, weight loss, restlessness, sweating, diarrhoea, fast heart rate, excessive hunger, muscle weakness, irritability, abnormal menstruation.",24
+"The patient has fatigue, weight gain, mood swings, lethargy, dizziness, puffy face and eyes, enlarged thyroid, brittle nails, swollen extremeties, depression, irritability, abnormal menstruation.",26
+"The patient has burning micturition, bladder discomfort, foul smell of urine, continuous feel of urine.",38
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37
+"The patient has itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body.",7
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has joint pain, vomiting, fatigue, high fever, yellowish skin, dark urine, nausea, loss of appetite, abdominal pain, yellowing of eyes, coma, stomach bleeding.",22
+"The patient has vomiting, indigestion, loss of appetite, abdominal pain, passage of gases, internal itching.",33
+"The patient has skin rash, blister, red sore around nose, yellow crust ooze.",27
+"The patient has joint pain, neck pain, knee pain, hip joint pain, swelling joints, painful walking.",31
+"The patient has itching, fatigue, lethargy, yellowish skin, dark urine, loss of appetite, abdominal pain, yellow urine, yellowing of eyes, malaise, receiving blood transfusion, receiving unsterile injections.",19
+"The patient has skin rash, high fever, blister, red sore around nose, yellow crust ooze.",27
+"The patient has continuous sneezing, shivering, chills, watering from eyes.",3
+"The patient has chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain.",37

@@ -1,5 +1,8 @@
 # Medical Diagnosis Chatbot
 
-Our app aims to alleviate the harmful effects of misdiagnosing and lack of preventative care of patients in the modern world. Using Large Language Models and Machine Learning Algorithms, our app takes
-in user symptoms to create a comprehensive diagnosis with steps to prevent harmful affects. Our Machine Learning models focus on Diabetes, Heart Attacks, and Arthritis as those three diseases are
-quite prevelant. 
+Our app is designed to address the critical issues of misdiagnosis and inadequate preventative care in today's healthcare landscape. Leveraging the power of Large Language Models and advanced Machine Learning algorithms, our platform analyzes user-reported symptoms to deliver accurate, comprehensive diagnoses along with actionable steps to mitigate potential health risks. Our Machine Learning focus is on prevalent conditions such as Diabetes, Heart Attacks, and Arthritis, as these three diseases are more prevelant in our world today. 
+
+Try out our app here!
+
+Authors:
+@SohamGunturu7

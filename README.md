@@ -5,7 +5,7 @@ Our app is designed to address the critical issues of misdiagnosis and inadequat
 Try out our app here!
 
 Authors:
-  - Soham Gunturu
-  - Keshav Chinnakotla
-  - Aarav Mehta
-  - Ayan Goel
+  - [Soham Gunturu](https://github.com/SohamGunturu7)
+  - [Keshav Chinnakotla](https://github.com/KChinnakotla)
+  - [Aarav Mehta](https://github.com/aaravmehta11)
+  - [Ayan Goel](https://github.com/ayangoel)

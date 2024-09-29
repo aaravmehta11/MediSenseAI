@@ -19,7 +19,7 @@ st.set_page_config(
 st.header("Arthritis Risk Calculator")
 
 #Loading Data
-df = pd.read_csv("arthritis.csv")
+df = pd.read_csv("Data/arthritis.csv")
 df = df.drop(df.columns[0], axis=1)
 st.write("Our preliminary data is below: ")
 st.write(df.head(30))

@@ -107,7 +107,7 @@ def load_and_train_model():
 
     return model, scaler, X_test, y_test
 
-with st.spinner('Training the model, please wait...'):
+with st.spinner('Please wait...'):
     model, scaler, X_test, y_test = load_and_train_model()
 
 # Collect user input and make predictions
